@@ -1,11 +1,11 @@
-# Customer_Churn_Pbi-Dashboard
+# Sales and Customer Analysis Dashboard
 This project showcases an interactive and comprehensive sales and customer analysis dashboard created using Power BI. The dataset used for this analysis was sourced from Kaggle, providing valuable insights into customer behavior and sales performance. Dataset Source: https://www.kaggle.com/code/fabiendaniel/customer-segmentation/input?select=data.csv
 
 Sales Performance Overview
 The Sales Performance Overview section offers a comprehensive view of sales metrics such as revenue, units sold, and average order value. Key performance indicators (KPIs) and trend analysis enable users to track performance over time and identify growth opportunities.
 
 Product Analysis
-In the Product Analysis segment, detailed insights into product performance are provided. This includes visualizations highlighting the top-selling products, revenue contribution by product category, and price-quantity relationships. These charts help identify popular products, analyze pricing strategies, and optimize inventory management.
+In the Product Analysis segment, detailed insights into product performance are provided. This includes visualizations highlighting the top-selling products, revenue contribution by product category, and price-quantity relationships. These charts help identify popular products, analyze pricing strategies and optimize inventory management.
 
 Customer Insights
 The Customer Insights section delves into customer segmentation and behavior analysis. By categorizing customers based on criteria such as purchase frequency, recency, and total purchase value, users gain a deeper understanding of customer segments. This information aids in targeted marketing, customer retention strategies, and personalized offerings.
