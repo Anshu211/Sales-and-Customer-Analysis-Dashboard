@@ -1,5 +1,5 @@
-# Sales and Customer Analysis Dashboard
-This project showcases an interactive and comprehensive sales and customer analysis dashboard created using Power BI. The dataset used for this analysis was sourced from Kaggle, providing valuable insights into customer behavior and sales performance. Dataset Source: https://www.kaggle.com/code/fabiendaniel/customer-segmentation/input?select=data.csv
+# Sales and Customer Analysis Dashboard 
+This project showcases an interactive and comprehensive sales and customer analysis dashboard created using Power BI. The dataset used for this analysis was sourced from Kaggle, providing valuable insights into customer behavior and sales performance. Dataset Source: https://www.kaggle.com/code/fabiendaniel/customer-segmentation/input?select=data.csv   PDF: https://drive.google.com/file/d/1Vhk7TYTDRA6EN4kuJ_081DPDuD5hGZ6M/view?usp=sharing
 
 Sales Performance Overview
 The Sales Performance Overview section offers a comprehensive view of sales metrics such as revenue, units sold, and average order value. Key performance indicators (KPIs) and trend analysis enable users to track performance over time and identify growth opportunities.
